@@ -35,5 +35,8 @@ Detailed information about the columns can be found here [link].
 
 The project focuses on building an architecture pipeline for analytics and prediction:
 
+# Executive Summary
+
+## Overview of Findings
 <img width="985" height="485" alt="image" src="https://github.com/user-attachments/assets/ae82d209-f9da-4f5c-b816-fd051e916448" />
 
