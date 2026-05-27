@@ -41,6 +41,53 @@ The project focuses on building an architecture pipeline for analytics and predi
 
 ## Overview of Findings
 
+The bank demonstrated strong growth in customer activity between 1993 and 1998, surpassing 1 million total transactions and generating more than 103 million in total loan value, indicating increasing adoption of banking services and customer engagement over time. Despite this growth, approximately 11% of loans were identified as risky, with problematic loans concentrated in specific regions and among customers exhibiting unstable financial behavior.
+
+Customer analytics further revealed that highly active customers and cardholders generally maintained stronger balances and greater engagement with the bank’s products, while risky customers were characterized by high monthly loan payments, withdrawal-heavy transaction patterns, and lower financial stability. 
+
+Below is the overview page from the Power BI dashboard, and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
+
 <img width="770" height="434" alt="image" src="https://github.com/user-attachments/assets/7cdcf8a8-f290-44e1-b32c-d3b17f4b6a50" />
+
+## Transaction Trend:
+
+- Transaction activity increased significantly between 1993 and 1998, rising from approximately 1M in early 1993 to peak levels above 200M by 1998. This consistent upward trend indicates rapid growth in customer engagement and banking service adoption over the analyzed period.
+
+- The transaction trend demonstrates strong seasonal or cyclical spikes occurring almost every year, with notable peaks around 82M in 1995, 149M–181M in 1997, and over 210M in 1998. These recurring surges suggest periods of intensified banking activity, potentially driven by loan cycles, payment schedules, or increased customer usage.
+
+- Although overall transaction volume continued to grow, the trend also exhibited several sharp short-term declines after major peaks. For example, transaction amounts dropped from approximately 210M to around 148M in 1998 after reaching the highest recorded peak, indicating volatility in customer transaction behavior and possible fluctuations in account activity.
+
+- The long-term growth trajectory accelerated noticeably after 1996, where transaction values consistently exceeded 100M and continued climbing afterward. This suggests that the bank entered a stronger expansion phase during the later years, supported by increasing transaction frequency and higher overall financial activity across the customer base.
+
+<img width="765" height="411" alt="image" src="https://github.com/user-attachments/assets/82b9d149-8947-4b2e-9fb4-3f77930408d7" />
+
+## Customer Segmentation Scatter Plot
+
+- Customers categorized as “Has Card” generated extremely high banking activity, contributing more than 1,056,320 total transactions. This suggests that card ownership is strongly associated with active engagement and frequent usage of banking services.
+
+- Card-owning customers maintained an average account balance of approximately 38.5K, indicating relatively stable financial behavior and stronger liquidity compared to typical retail banking customers. The combination of high transaction activity and stable balances suggests these customers represent valuable long-term banking clients.
+
+- The customer segment displayed substantial borrowing activity, with total loan amounts exceeding 103M. This indicates that highly engaged customers are also major users of the bank’s lending products, demonstrating opportunities for cross-selling and relationship banking strategies.
+
+- The visualization currently shows a single dominant customer segment concentrated around high transaction counts, high balances, and high loan usage. This suggests either a highly homogeneous active customer base or an aggregation issue in the current dashboard design, indicating that deeper segmentation at the individual customer level may provide more actionable behavioral insights.
+
+<img width="766" height="409" alt="image" src="https://github.com/user-attachments/assets/ea8e411f-34b7-4cd6-be25-baddfee546b8" />
+
+## Loan Status by Region
+
+- Across all regions, the majority of loans were categorized as “Running contract, OK so far” with approximately 403 loans per region belonging to this healthy loan segment. This indicates that most customers were actively repaying loans without major financial issues, suggesting an overall stable loan portfolio.
+
+- Completed loans with no repayment problems represented the second-largest loan category, averaging around 203 loans across regions. This demonstrates that a significant portion of customers successfully fulfilled their loan obligations, reflecting relatively healthy long-term repayment behavior.
+
+- Risk-related loan statuses, including “Running contract, client in debt” and “Contract finished, loan not payed” appeared consistently across nearly all regions. On average, each region contained approximately 45 active debt-related loans and 31 unpaid completed loans, indicating that loan risk is geographically widespread rather than isolated to a single district.
+
+- While the overall loan status distribution remained relatively similar between regions, several districts such as central Bohemia, Prague, north Moravia, and south Bohemia showed slightly higher total loan counts, suggesting stronger banking activity and larger customer bases in these areas. This indicates that high-activity regions may require closer monitoring due to their larger exposure to both healthy and risky loans.
+
+<img width="768" height="411" alt="image" src="https://github.com/user-attachments/assets/eff6abaf-ede8-4d5a-9689-28f118038486" />
+
+##
+
+
+
 
 
