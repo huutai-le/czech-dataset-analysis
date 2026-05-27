@@ -16,3 +16,18 @@ The Python code used to inspect and clean the data for this analysis can be foun
 Target Python code for creating dim/fact tables regarding various business questions can be found here [link].
 
 An interactive Power BI dashboard used to report and explore banking trends can be found here [link].
+
+# Data Structure & Architecture
+
+The Berka Banking Dataset as seen below consists of eight tables transformed into dimensional and fact tables using a star schema design.
+
+- 4500 account records
+- 5369 client records
+- 5369 disposition records
+- 6471 permanent order records
+- 1056320 transaction records
+- 682 loan records
+- 892 credit card records
+- 77 demographic data records
+
+<img width="507" height="298" alt="image" src="https://github.com/user-attachments/assets/01e97b71-5514-47f9-9c35-5c20512c9105" />
