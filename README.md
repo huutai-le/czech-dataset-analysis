@@ -1,4 +1,3 @@
-# czech-dataset-analysis
 # Project Background
 This project analyzes customer banking behavior and loan repayment risk using the Berka Banking Dataset, a financial dataset that simulates the operations of a retail bank. The bank provides services such as savings accounts, credit cards, loans, and payment orders to customers across multiple districts.
 
@@ -30,4 +29,11 @@ The Berka Banking Dataset as seen below consists of eight tables transformed int
 - 892 credit card records
 - 77 demographic data records
 
+Detailed information about the columns can be found here [link].
+
 <img width="507" height="298" alt="image" src="https://github.com/user-attachments/assets/01e97b71-5514-47f9-9c35-5c20512c9105" />
+
+The project focuses on building an architecture pipeline for analytics and prediction:
+
+<img width="985" height="485" alt="image" src="https://github.com/user-attachments/assets/ae82d209-f9da-4f5c-b816-fd051e916448" />
+
