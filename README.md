@@ -85,7 +85,31 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 
 <img width="768" height="411" alt="image" src="https://github.com/user-attachments/assets/eff6abaf-ede8-4d5a-9689-28f118038486" />
 
-##
+## Monthly Payment and Loan Amount
+
+- Loans categorized as “Running contract, OK so far” represented the largest loan segment and were associated with the highest financial exposure, reaching approximately 69M in total loan amount and over 1.5M in monthly payments. This indicates that the bank’s healthiest active loans also account for the largest share of the lending portfolio.
+
+- Customers with “Contract finished, no problems” loans showed moderate loan sizes and repayment obligations, with loan amounts around 19M and monthly payments close to 0.9M. This suggests that stable repayment behavior is commonly associated with medium-sized loans and manageable payment structures.
+
+- Riskier loan groups, particularly “Running contract, client in debt,” displayed relatively high loan amounts compared to their lower monthly payment volumes. With loan exposure exceeding 10M despite lower repayment capacity, these customers may represent financially stressed borrowers who require closer monitoring from the bank’s risk management team.
+
+- The “Contract finished, loan not payed” segment represented the smallest portion of the portfolio, with both low loan amounts and low repayment values. Although smaller in scale, this category remains critical because it reflects fully defaulted loans that directly contribute to financial losses and deteriorating portfolio quality.
+
+<img width="929" height="521" alt="image" src="https://github.com/user-attachments/assets/a2fbce7b-b837-4e29-805e-f6db95538e13" />
+
+# Recommendations
+
+Based on the insights and findings above, we would recommend the bank’s analytics, risk management, and customer strategy teams to consider the following:
+
+- Customers with high loan amounts but relatively low repayment capacity should be monitored more proactively through early-warning risk systems. The analysis showed that debt-related loan groups maintained disproportionately high loan exposure despite lower monthly payment activity, indicating elevated financial stress and potential default risk.
+
+- Regional loan monitoring strategies should be strengthened in high-activity districts such as central Bohemia, Prague, and north Moravia, where both healthy and risky loan volumes are significantly concentrated. Implementing region-specific risk policies may help reduce portfolio exposure while maintaining growth opportunities.
+  
+- The bank should expand engagement and retention programs targeting active card-owning customers. Dashboard findings revealed that card holders generated the highest transaction volumes, maintained stable balances, and represented some of the bank’s most valuable and engaged customers.
+
+- Transaction behavior metrics such as withdrawal frequency, repayment burden, and balance stability should be incorporated into future credit scoring and loan approval models. The analysis demonstrated that risky customers often exhibit unstable financial behavior patterns before loan repayment issues occur.
+
+- The bank should continue investing in customer acquisition and digital banking engagement initiatives, as transaction activity grew substantially between 1993 and 1998. Sustaining this growth while improving loan portfolio quality could significantly strengthen long-term customer profitability and financial stability.
 
 
 
