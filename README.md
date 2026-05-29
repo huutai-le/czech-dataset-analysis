@@ -111,6 +111,7 @@ Based on the insights and findings above, we would recommend the bank’s analyt
 
 - The bank should continue investing in customer acquisition and digital banking engagement initiatives, as transaction activity grew substantially between 1993 and 1998. Sustaining this growth while improving loan portfolio quality could significantly strengthen long-term customer profitability and financial stability.
 
+## Loan 
 
 
 
